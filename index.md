@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](https://colab.research.google.com/drive/1wbo8RL3qg0VK_8VGiaOoHrpptdGXKq4t/)
+- [Identifikasi Daun Herbal Menggunakan ResNet50](https://colab.research.google.com/drive/1wbo8RL3qg0VK_8VGiaOoHrpptdGXKq4t/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
