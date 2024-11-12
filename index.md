@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](Identifikasi Daun Tanaman Herbal)
+[Identifikasi Daun Tanaman Herbal]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
