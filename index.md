@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 [Identifikasi Daun Tanaman Herbal]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -16,8 +14,6 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
 
 - [Identifikasi Daun Herbal Menggunakan ResNet50](https://colab.research.google.com/drive/1wbo8RL3qg0VK_8VGiaOoHrpptdGXKq4t/)
 - [Project 2 Title](http://example.com/)
